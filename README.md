@@ -38,7 +38,7 @@ Pernambuco foi o Estado que apresentou o maior crescimento na movimentação aé
 
 ## Créditos
 
-A ideia para esta análise partiu do desafio #DataGlowUp41, promovido pelo Heitor Sasaki. Para conferir este e outros desafios, acesse [Desafios Data Glow UP](https://heitorsasaki.notion.site/Data-Glow-Up-3649e7d3520742f69957f1b27b9744df).
+A ideia para esta análise partiu do desafio #DataGlowUp41, promovido pelo Heitor Sasaki. Para conferir este e outros desafios, acesse: [Desafios Data Glow UP](https://heitorsasaki.notion.site/Data-Glow-Up-3649e7d3520742f69957f1b27b9744df).
 
 ## Contato
 <div> 
